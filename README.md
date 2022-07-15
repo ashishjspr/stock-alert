@@ -17,4 +17,5 @@
 - Only performs automatic fetching of stocks during trading hours
 - Displays price change and summary alerts
 
-
+### ToDo:
+1. Change notification alert to alarm alert
