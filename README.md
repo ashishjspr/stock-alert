@@ -17,12 +17,4 @@
 - Only performs automatic fetching of stocks during trading hours
 - Displays price change and summary alerts
 
-## License
 
-GPL
-
-### Author
-[Prem Nirmal](http://premnirmal.me/)
-
-### ToDo:
-1. Change notification alert to alarm alert
